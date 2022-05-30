@@ -1,0 +1,44 @@
+part 1 -
+- *IMPORTANT* - a canvas is a HTML element and an API of canvas is also provided by the browser
+
+- Box -shadow also we can search and pick one from the google sites
+- svg - images in the code format like images in the tools folder..
+- icon - on icon if once clicked then cross will be shown with no tools meanwhile again clicked then the menu will be shown..
+- sticky notes - first structuring of sticky note in the html and then show the sticky note according to user need by using js.
+- functionalities on sticky note -> 
+- drag and drop - see algo in google..
+- drawing graphics see in mdn
+getting the canvas context and final setup 
+- to draw in the board - a tool is provided to perform all the graphics in the canvas which is provided by the 'getcontext("2d)'
+- allthe graphics to perform - seein mdn - 
+1 - drawing paths
+
+- path of graphics -> mouse listeners
+- wherever the mouse is from there only the path will start and then wherever the mouse is later then the graphics will fill up those states or paths if we say
+
+- Tracker Array - indicates that 
+
+- part 3 - Realtime drawing - Socket.io
+- use Express and Socket.io
+
+- connecting the socket.io
+- to connect the socket.io go for socket.io cdn 
+the script should be copied and should be pasted in the front-end
+
+-commands -
+- npm init
+- npm install express socket.io
+- server -> listen
+- socket -> cdn frontend and -> backend connection
+
+- one more server to install 
+- nodemon - it restarts the app if the app is crashing or something after reactifying the errors..
+- the command for nodemon-> npm install --save-dev nodemon
+
+- the realtime operation is only work for the graphics and not for sticky notes
+
+* MOST IMPORTANT *
+- Deploying using Heroku app
+-> github signup
+-> heroku signup
+-> make a github respositry
