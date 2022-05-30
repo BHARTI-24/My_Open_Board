@@ -42,3 +42,7 @@ the script should be copied and should be pasted in the front-end
 -> github signup
 -> heroku signup
 -> make a github respositry
+
+git remote add origin https://github.com/bhartisharma-12/MY_OPEN_BOARD.git
+git branch -M main
+git push -u origin main
