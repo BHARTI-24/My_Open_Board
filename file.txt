@@ -46,3 +46,7 @@ the script should be copied and should be pasted in the front-end
 git remote add origin https://github.com/bhartisharma-12/MY_OPEN_BOARD.git
 git branch -M main
 git push -u origin main
+
+git remote add origin https://github.com/BHARTI-24/My_Open_Board.git
+git branch -M main
+git branch -M main
